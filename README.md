@@ -1,6 +1,6 @@
-# Blue Limit — 3D Printable Logo
+# Limito Azul — 3D Printable Logo
 
-My personal logo, designed from scratch and modeled in 3D for printing.
+I wanted to create my own personal logo and based the design on my Minecraft skin. Then I modeled it in 3D so I could print it.
 
 Also available on [MakerWorld](https://makerworld.com/es/models/1843028-blue-limit).
 
