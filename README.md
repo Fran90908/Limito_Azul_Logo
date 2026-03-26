@@ -1,4 +1,4 @@
-# Limito Azul — 3D Printable Logo
+# Limito Azul Logo — Design and 3D Printable Model
 
 I wanted to create my own personal logo and based the design on my Minecraft skin. Then I modeled it in 3D so I could print it.
 
